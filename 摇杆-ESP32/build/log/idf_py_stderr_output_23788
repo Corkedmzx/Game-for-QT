@@ -1,0 +1,16 @@
+Command: ninja all
+Configuration Report                                                           
++-----------------------------------------------------------------------------+
+|  Parser Version: 1                                                          |
+|  Verbosity: default                                                         |
+|  Defaults policy: sdkconfig                                                 |
+|  Status: Finished with notifications                                        |
+|                                                                             |
+| Disabled Symbols/Choices With User-Set Value                                |
+| +-------------------------------------------------------------------------+ |
+| | * BT_BLE_ENABLED (defined at                                            | |
+| | D:/esp32/v6.0.1/esp-idf/components/bt/host/bluedroid/Kconfig.in:273)    | |
+| | with user-set value y from                                              | |
+| | C:\Users\86157\AppData\Local\Temp\kconfgen_tmpzmsyk9k2                  | |
+| +-------------------------------------------------------------------------+ |
++-----------------------------------------------------------------------------+
